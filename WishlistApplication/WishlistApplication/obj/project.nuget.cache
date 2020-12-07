@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "/t4Oz1gtjrj9Cpo5QqVpCOHxPPctd5x2IjyvY2WTHFTijUvNPGNLDjxhZQjf8xQZ6v8FJwkCUrcWXOlIhBh/AQ==",
   "success": true,
   "projectFilePath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
+=======
+  "dgSpecHash": "XRwRcWazX6nmnNLfXW0Xyhu9roSD3N1jqGQ7tIJMaBXYs6/9cM/h5EA8NQETPzO89AyYg1peDWaE23KPqBSxHg==",
+  "success": true,
+  "projectFilePath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/WishlistApplication.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
