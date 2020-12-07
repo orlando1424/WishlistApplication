@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orlando\\source\\repos\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj": {}
+    "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orlando\\source\\repos\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj": {
+    "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orlando\\source\\repos\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
+        "projectUniqueName": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
         "projectName": "WishlistApplication",
-        "projectPath": "C:\\Users\\Orlando\\source\\repos\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
+        "projectPath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
         "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orlando\\source\\repos\\WishlistApplication\\WishlistApplication\\obj\\",
+        "outputPath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
