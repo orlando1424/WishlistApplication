@@ -72,3 +72,4 @@ D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\n
 D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.pdb
 D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.genruntimeconfig.cache
 D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csproj.CopyComplete
+D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\libman.json
