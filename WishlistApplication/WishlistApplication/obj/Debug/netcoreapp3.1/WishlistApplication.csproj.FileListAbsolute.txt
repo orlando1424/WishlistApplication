@@ -1,74 +1,111 @@
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.exe
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.deps.json
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.runtimeconfig.json
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.runtimeconfig.dev.json
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.dll
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.pdb
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.Views.dll
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.Views.pdb
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csprojAssemblyReference.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.AssemblyInfoInputs.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.AssemblyInfo.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csproj.CoreCompileInputs.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorAssemblyInfo.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorAssemblyInfo.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\staticwebassets\WishlistApplication.StaticWebAssets.Manifest.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\staticwebassets\WishlistApplication.StaticWebAssets.xml
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WishlistApplication.styles.css
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.TagHelpers.input.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.TagHelpers.output.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorCoreGenerate.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorTargetAssemblyInfo.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorTargetAssemblyInfo.cs
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.Views.pdb
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.dll
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.pdb
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.genruntimeconfig.cache
-C:\Users\Orlando\source\repos\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csproj.CopyComplete
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.exe
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.deps.json
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.runtimeconfig.json
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.runtimeconfig.dev.json
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.dll
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.pdb
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.Views.dll
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\bin\Debug\netcoreapp3.1\WishlistApplication.Views.pdb
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csprojAssemblyReference.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.AssemblyInfoInputs.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.AssemblyInfo.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csproj.CoreCompileInputs.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.MvcApplicationPartsAssemblyInfo.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorAssemblyInfo.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorAssemblyInfo.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\staticwebassets\WishlistApplication.StaticWebAssets.Manifest.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\staticwebassets\WishlistApplication.StaticWebAssets.xml
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WishlistApplication.styles.css
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.TagHelpers.input.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.TagHelpers.output.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorCoreGenerate.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorTargetAssemblyInfo.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.RazorTargetAssemblyInfo.cs
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.Views.pdb
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.dll
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.pdb
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.genruntimeconfig.cache
-D:\Repos\WishlistApplication\WishlistApplication\WishlistApplication\obj\Debug\netcoreapp3.1\WishlistApplication.csproj.CopyComplete
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.exe
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.deps.json
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.runtimeconfig.json
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.runtimeconfig.dev.json
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.dll
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.pdb
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.Views.dll
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.Views.pdb
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csprojAssemblyReference.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.AssemblyInfoInputs.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.AssemblyInfo.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csproj.CoreCompileInputs.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorAssemblyInfo.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorAssemblyInfo.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/staticwebassets/WishlistApplication.StaticWebAssets.Manifest.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/staticwebassets/WishlistApplication.StaticWebAssets.xml
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/scopedcss/bundle/WishlistApplication.styles.css
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.TagHelpers.input.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.TagHelpers.output.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorCoreGenerate.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorTargetAssemblyInfo.cs
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.Views.pdb
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.dll
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.pdb
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.genruntimeconfig.cache
+C:/Users/Orlando/source/repos/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csproj.CopyComplete
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.exe
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.deps.json
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.runtimeconfig.json
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.runtimeconfig.dev.json
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.dll
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.pdb
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.Views.dll
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.Views.pdb
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csprojAssemblyReference.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.AssemblyInfoInputs.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.AssemblyInfo.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csproj.CoreCompileInputs.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.MvcApplicationPartsAssemblyInfo.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorAssemblyInfo.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorAssemblyInfo.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/staticwebassets/WishlistApplication.StaticWebAssets.Manifest.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/staticwebassets/WishlistApplication.StaticWebAssets.xml
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/scopedcss/bundle/WishlistApplication.styles.css
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.TagHelpers.input.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.TagHelpers.output.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorCoreGenerate.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorTargetAssemblyInfo.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorTargetAssemblyInfo.cs
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.Views.pdb
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.dll
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.pdb
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.genruntimeconfig.cache
+D:/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csproj.CopyComplete
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/libman.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.deps.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.runtimeconfig.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.runtimeconfig.dev.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.Views.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/bin/Debug/netcoreapp3.1/WishlistApplication.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csprojAssemblyReference.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorAssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/staticwebassets/WishlistApplication.StaticWebAssets.Manifest.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/staticwebassets/WishlistApplication.StaticWebAssets.xml
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/scopedcss/bundle/WishlistApplication.styles.css
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.TagHelpers.input.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.TagHelpers.output.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorCoreGenerate.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorTargetAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.RazorTargetAssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.genruntimeconfig.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/Debug/netcoreapp3.1/WishlistApplication.csproj.CopyComplete

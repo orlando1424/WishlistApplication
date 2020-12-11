@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-    "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj": {}
-  },
-  "projects": {
-    "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
-        "projectName": "WishlistApplication",
-        "projectPath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
-        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\obj\\",
-=======
     "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/WishlistApplication.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/WishlistApplication.csproj",
         "packagesPath": "/Users/orlandolopez/.nuget/packages/",
         "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/",
->>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/orlandolopez/.config/NuGet/NuGet.Config"

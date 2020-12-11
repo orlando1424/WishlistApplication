@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
-      "projectName": "WishlistApplication",
-      "projectPath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\WishlistApplication.csproj",
-      "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\WishlistApplication\\WishlistApplication\\WishlistApplication\\obj\\",
-=======
       "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/WishlistApplication.csproj",
       "projectName": "WishlistApplication",
       "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/WishlistApplication.csproj",
       "packagesPath": "/Users/orlandolopez/.nuget/packages/",
       "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/",
->>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/orlandolopez/.config/NuGet/NuGet.Config"
@@ -72,5 +64,13 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/WishlistApplication/WishlistApplication/WishlistApplication/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
