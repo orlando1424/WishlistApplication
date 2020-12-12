@@ -1,8 +1,21 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@model Wishlist
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Hello, please enter items you'd like on this Wishlist.</h1>
     @*<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
 </div>
+
+
+
+<form method="post" class="form-horizontal" role="form">
+    <h4>You're one step away from adding items to your Wishlist!</h4>
+    <div class="form-group">
+        <label asp-for="ItemName" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="ItemName" class="form-control" />
+        </div>
+    </div>
+ </form>
